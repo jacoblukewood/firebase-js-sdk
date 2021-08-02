@@ -258,7 +258,7 @@ class BrowserLocalPersistence
 }
 
 /**
- * An implementation of {@link Persistence} of type 'LOCAL' using `localStorage`
+ * An implementation of {@link Persistence} of type `LOCAL` using `localStorage`
  * for the underlying storage.
  *
  * @public

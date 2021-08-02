@@ -28,7 +28,7 @@ import { _castAuth } from '../auth/auth_impl';
  * If there is already an anonymous user signed in, that user will be returned; otherwise, a
  * new anonymous user identity will be created and returned.
  *
- * @param auth - The Auth instance.
+ * @param auth - The {@link Auth} instance.
  *
  * @public
  */
